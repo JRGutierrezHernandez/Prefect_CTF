@@ -25,6 +25,11 @@ Crear tareas (tasks)
 Crear un flujo de trabajo (flow)
 
 Ejecutar el flujo en la computadora
+<img width="943" height="554" alt="Captura de pantalla 2026-03-16 085121" src="https://github.com/user-attachments/assets/3b92ef5e-be03-4b73-977a-4c8fc4689390" />
+
+<img width="1919" height="1019" alt="Captura de pantalla 2026-03-16 085227" src="https://github.com/user-attachments/assets/4755749d-c71c-4480-8d66-1df6bbd9d587" />
+
+<img width="1919" height="970" alt="Captura de pantalla 2026-03-16 094549" src="https://github.com/user-attachments/assets/a1bfe19e-20b3-4d8b-bb14-3e221d8f9573" />
 
 
 ## Modificación y ejemplo propio
@@ -44,6 +49,10 @@ Se conecta a la API.
 Obtiene los datos de los posts.
 
 Muestra los primeros cinco títulos en la consola.
+
+<img width="1919" height="1018" alt="Captura de pantalla 2026-03-16 090408" src="https://github.com/user-attachments/assets/3f39b598-4b6d-4fc2-936d-0f7747921007" />
+
+<img width="1919" height="1017" alt="Captura de pantalla 2026-03-16 090610" src="https://github.com/user-attachments/assets/1960496b-29f6-4ed9-8141-e6029ba26f16" />
 
 ## Conclusión
 
